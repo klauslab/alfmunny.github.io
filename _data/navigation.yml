@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: "About"
+  url: /about/
+  excerpt:
+  image:
+
+- title: "Game Engine"
+  url: /game-engine/
+  excerpt:
+  image:
+
+- title: "Algorithms"
+  url: /algorithms/
+  excerpt:
+  image:
+
+- title: "Journals"
+  url: /journals/
+  excerpt:
+  image:
+
