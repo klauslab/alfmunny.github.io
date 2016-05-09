@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b18b7a41-d544-4a53-ba02-603cd66238a2" name="Default" comment="lost in translation updated">
+    <list default="true" id="b18b7a41-d544-4a53-ba02-603cd66238a2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/game-engine/2016-03-31-recap-of-c++.md" afterPath="$PROJECT_DIR$/_posts/game-engine/2016-03-31-recap-of-c++.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms/index.md" afterPath="$PROJECT_DIR$/algorithms/index.md" />
     </list>
     <ignored path="alfmunny's tech blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,8 +95,8 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.87617064">
-                  <caret line="441" column="0" selection-start-line="441" selection-start-column="0" selection-end-line="441" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.8938606">
+                  <caret line="588" column="0" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -407,7 +406,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462279266926</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="recap of c++ updated">
+      <created>1462295608054</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1462295608054</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -470,7 +475,8 @@
     <MESSAGE value="lost in translation image added" />
     <MESSAGE value="post recap of c++ added" />
     <MESSAGE value="lost in translation updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="lost in translation updated" />
+    <MESSAGE value="recap of c++ updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="recap of c++ updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -897,17 +903,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/journarls/2016-3-31-lost-in-translation.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.793103">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/toc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.052904565">
@@ -924,13 +919,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/journarls/2016-3-31-lost-in-translation.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.793103">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/game-engine/2016-03-31-recap-of-c++.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87617064">
-          <caret line="441" column="0" selection-start-line="441" selection-start-column="0" selection-end-line="441" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8938606">
+          <caret line="588" column="0" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
           <folding />
         </state>
       </provider>
