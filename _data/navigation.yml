@@ -1,22 +1,21 @@
 # Site navigation links
 
-- title: "About"
-  url: /about/
+- title: "Algorithms"
+  url: /algorithms/
   excerpt:
-  image:
+  image: algorithms.png
 
 - title: "Game Engine"
   url: /game-engine/
   excerpt:
-  image:
-
-- title: "Algorithms"
-  url: /algorithms/
-  excerpt:
-  image:
+  image: game-engine.jpg
 
 - title: "Journals"
   url: /journals/
   excerpt:
-  image:
+  image: teaser.jpg
 
+- title: "About"
+  url: /about/
+  excerpt:
+  image: bio-photo.jpg

@@ -1,12 +1,12 @@
 ---
 layout: article
-title: "Welcome to Alfmunny's Rye"
+title: ""
 excerpt: "Welcome to Alfmunny's blog"
 ---
 
-Hello, I'm Yuanchen, programmer living in Munich.
+Hello, I'm Yuanchen, a programmer living in Munich.
 
-I'm recently interested in game engines and computer graphics.
+I'm recently interested in computer graphics.
 
 I'm working mainly with python and C#.
 I've also done some projects with C++, Ruby and javascript.
